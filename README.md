@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**mceiring/mceiring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Scientist** with a Master's in **Computer Science** from Norway, specializing in **Telecommunication** and **Software Engineering**. I’m passionate about **technology** and **innovation**, always exploring the latest in **science**, **history**, and **philosophy**.
 
-Here are some ideas to get you started:
+🔭 **Currently working on:**  
+- Enhancing telecommunications systems  
+- Personal projects in AI and data science  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Skills:**  
+- **Programming:** Python, C++, JavaScript  
+- **Telecom:** Network protocols, IoT  
+- **Cloud:** AWS, Azure  
+
+📫 **Connect with me:**  
+[LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/erlend-eiring-5b2340200/))
+
+⚡ **Fun fact:** I’m always up for a good book on philosophy or a chat about historical tech breakthroughs.
