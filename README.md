@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a **Computer Scientist** with a Master's in **Computer Science** from Norway, specializing in **Telecommunication** and **Software Engineering**. I’m passionate about **technology** and **innovation**, always exploring the latest in **science**, **history**, and **philosophy**.
+I'm a **Computer Scientist** with a Master's in **Data Science** from UiS, Norway, specializing in **Machine Learning** and **Software Engineering**. I’m passionate about **technology** and **innovation**, always exploring the latest in **science**, **history**, and **philosophy**.
 
 🔭 **Currently working on:**  
 - Enhancing telecommunications systems  
