@@ -14,4 +14,4 @@ I'm a **Computer Scientist** with a Master's in **Data Science** from UiS, Norwa
 📫 **Connect with me:**  
 [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/erlend-eiring-5b2340200/))
 
-⚡ **Fun fact:** I’m always up for a good book on philosophy or a chat about historical tech breakthroughs.
+
